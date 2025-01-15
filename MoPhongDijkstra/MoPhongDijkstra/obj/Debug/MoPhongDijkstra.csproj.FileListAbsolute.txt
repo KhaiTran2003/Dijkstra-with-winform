@@ -8,3 +8,14 @@ F:\VoTanDuy\MoPhongDijkstra\MoPhongDijkstra\bin\Debug\MoPhongDijkstra.exe
 F:\VoTanDuy\MoPhongDijkstra\MoPhongDijkstra\bin\Debug\MoPhongDijkstra.pdb
 F:\VoTanDuy\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.exe
 F:\VoTanDuy\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.pdb
+D:\code c#\2025\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\bin\Debug\MoPhongDijkstra.exe.config
+D:\code c#\2025\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\bin\Debug\MoPhongDijkstra.exe
+D:\code c#\2025\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\bin\Debug\MoPhongDijkstra.pdb
+D:\code c#\2025\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.csproj.AssemblyReference.cache
+D:\code c#\2025\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.csproj.SuggestedBindingRedirects.cache
+D:\code c#\2025\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.FrmMain.resources
+D:\code c#\2025\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.Properties.Resources.resources
+D:\code c#\2025\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.csproj.GenerateResource.cache
+D:\code c#\2025\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.csproj.CoreCompileInputs.cache
+D:\code c#\2025\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.exe
+D:\code c#\2025\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.pdb
