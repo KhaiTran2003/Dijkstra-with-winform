@@ -98,6 +98,7 @@ namespace MoPhongDijkstra
             this.txt_delay.Name = "txt_delay";
             this.txt_delay.Size = new System.Drawing.Size(167, 22);
             this.txt_delay.TabIndex = 3;
+            this.txt_delay.TextChanged += new System.EventHandler(this.txt_delay_TextChanged);
             // 
             // btn_runstep
             // 
