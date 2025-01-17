@@ -66,8 +66,8 @@ namespace MoPhongDijkstra
                             {
                                 paths[neighbor.Key].Add(path.Concat(new[] { neighbor.Key }).ToList());
                             }
-                            priorityQueue.Remove((distances[neighbor.Key], neighbor.Key)); // Important: Remove old entry
-                            priorityQueue.Add((distance, neighbor.Key)); // Add updated entry
+                            priorityQueue.Remove((distances[neighbor.Key], neighbor.Key)); 
+                            priorityQueue.Add((distance, neighbor.Key)); 
                         }
                         else if (distance == distances[neighbor.Key])
                         {

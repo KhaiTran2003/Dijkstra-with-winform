@@ -19,3 +19,13 @@ D:\code c#\2025\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\
 D:\code c#\2025\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.csproj.CoreCompileInputs.cache
 D:\code c#\2025\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.exe
 D:\code c#\2025\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.pdb
+F:\1_TTCS\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\bin\Debug\MoPhongDijkstra.exe.config
+F:\1_TTCS\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\bin\Debug\MoPhongDijkstra.exe
+F:\1_TTCS\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\bin\Debug\MoPhongDijkstra.pdb
+F:\1_TTCS\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.csproj.AssemblyReference.cache
+F:\1_TTCS\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.FrmMain.resources
+F:\1_TTCS\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.Properties.Resources.resources
+F:\1_TTCS\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.csproj.GenerateResource.cache
+F:\1_TTCS\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.csproj.CoreCompileInputs.cache
+F:\1_TTCS\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.exe
+F:\1_TTCS\Dijkstra-with-winform\MoPhongDijkstra\MoPhongDijkstra\obj\Debug\MoPhongDijkstra.pdb

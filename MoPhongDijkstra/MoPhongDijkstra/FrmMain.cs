@@ -121,11 +121,10 @@ namespace MoPhongDijkstra
                 int y1 = circle.Y;
                 int radius1 = circle.Radius;
                 int current = circle.Label - 'A';
-                Brush brush1 = new SolidBrush(circle._color); // Use a SolidBrush for solid fill
+                Brush brush1 = new SolidBrush(circle._color);
                 g.FillEllipse(brush1, x1 - radius1, y1 - radius1, 2 * radius1, 2 * radius1);
-                brush1.Dispose(); // Important: Dispose of brushes and pens when done
+                brush1.Dispose(); 
                 g.DrawString(circle.Label.ToString(), new Font("Arial", 16), new SolidBrush(Color.Blue), x1 -10 ,  y1-30);
-                //ve duong thang g.DrawLine(Pen pen, int x1, int y1, int x2, int y2);
                 using (Pen bluePen = new Pen(Color.Blue, 3))
                 {
                     Dictionary<char, int> neighbor = graph[circle.Label];
@@ -184,23 +183,6 @@ namespace MoPhongDijkstra
                 }
 
             }
-
-            //// Filled Circle 2 (Gradient Brush)
-            //int x2 = 200;
-            //int y2 = 100;
-            //int radius2 = 40;
-            //Rectangle rect2 = new Rectangle(x2 - radius2, y2 - radius2, 2 * radius2, 2 * radius2);
-            //LinearGradientBrush brush2 = new LinearGradientBrush(rect2, Color.Blue, Color.Green, LinearGradientMode.ForwardDiagonal);
-            //g.FillEllipse(brush2, rect2); // You can also use the rectangle directly
-            //brush2.Dispose();
-
-            ////Filled Circle 3 (Hatch Brush)
-            //int x3 = 100;
-            //int y3 = 150;
-            //int radius3 = 50;
-            //HatchBrush brush3 = new HatchBrush(HatchStyle.Cross, Color.Black, Color.LightGray);
-            //g.FillEllipse(brush3, x3 - radius3, y3 - radius3, 2 * radius3, 2 * radius3);
-            //brush3.Dispose();
         }
         private void FrmMain_Load(object sender, EventArgs e)
         {
@@ -219,11 +201,8 @@ namespace MoPhongDijkstra
         private void btn_loadfile_Click(object sender, EventArgs e)
         {
             OpenFileDialog openFileDialog1 = new OpenFileDialog();
-
-            // Thiết lập các thuộc tính cho OpenFileDialog (tùy chọn)
-            //openFileDialog1.Filter = "Text files (.txt)|.txt";
-            openFileDialog1.Title = "Chọn tệp"; // Tiêu đề hộp thoại
-            openFileDialog1.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments); // Thư mục ban đầu
+            openFileDialog1.Title = "Chọn tệp";
+            openFileDialog1.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments); 
 
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
