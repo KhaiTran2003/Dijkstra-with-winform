@@ -98,11 +98,15 @@ namespace MoPhongDijkstra
                 string[] toado = lines[i + 1].Split(' ');
                 circles.Add(new Circle(Points[i], int.Parse(toado[0]), int.Parse(toado[1]), 10));
 
-                string row = lines[i + 10].Replace(" ", "");
+                string[] row = lines[i + 10].Split(' ');
                 for (int j = 0; j < int.Parse((lines[0])); j++){
-                    if (i != j && row[j]!='0')
+                    if(j == 8)
                     {
-                        graph[Points[i]].Add(Convert.ToChar(j + 'A'), row[j] - '0');
+                        Console.WriteLine("test " + row[i]);
+                    }
+                    if (i != j && int.Parse(row[j]) != 0)
+                    {
+                        graph[Points[i]].Add(Convert.ToChar(j + 'A'), int.Parse(row[j]));
                     }
                 }
             }
